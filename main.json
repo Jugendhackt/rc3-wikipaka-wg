@@ -33,6 +33,12 @@
          "id":30,
          "name":"exitLounge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<lobby>\/non-tech.json#start_wikipaka-wg}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":121,

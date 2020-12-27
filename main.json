@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>/maps/non-tech.json#start_wikipaka-wg}"
+                 "value":"{<lobby>\/maps\/non-tech.json#start_wikipaka-wg}"
                 }],
          "type":"tilelayer",
          "visible":true,

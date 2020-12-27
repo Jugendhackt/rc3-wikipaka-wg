@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/non-tech.json#start_wikipaka-wg}"
+                 "value":"{<lobby>\/maps\/non-tech.json}"
                 }],
          "type":"tilelayer",
          "visible":true,

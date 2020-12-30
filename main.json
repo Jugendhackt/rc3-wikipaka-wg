@@ -289,7 +289,7 @@
                 {
                  "name":"getBadge",
                  "type":"string",
-                 "value":"KJy0GJhiTeeP20XlOy0DrxFbjsp00JBxM5kAr59NAlfKWm1FOm "
+                 "value":"KJy0GJhiTeeP20XlOy0DrxFbjsp00JBxM5kAr59NAlfKWm1FOm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -7187,6 +7187,18 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":150,
+                         "tileid":37
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":53
+                        }],
+                 "id":37
                 }, 
                 {
                  "id":41,

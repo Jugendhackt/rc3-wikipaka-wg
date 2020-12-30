@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lounge>\/wa-toilet-party\/maps\/restroom-party.json}"
+                 "value":"{<lounge>\/wa-toilet-party\/maps\/restroom-party.json#start-wikipaka-wg}"
                 }],
          "type":"tilelayer",
          "visible":true,
